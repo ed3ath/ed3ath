@@ -22,7 +22,7 @@
 </div>
 <br>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ed3ath&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ed3ath&theme=tokyo-night)](https://github.com/ed3ath/github-readme-activity-graph)
 
 <div align="center">
 
