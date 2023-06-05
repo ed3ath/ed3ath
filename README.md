@@ -5,7 +5,9 @@
 <span>👋 Hi and Welcome to my GitHub Profile!</span>
 <br>
 <br>
-<img src="https://gpvc.arturio.dev/ed3ath">
+  
+![](https://komarev.com/ghpvc/?username=ed3ath&color=blueviolet)
+  
 </div>
 <hr>
 <div align="center">
